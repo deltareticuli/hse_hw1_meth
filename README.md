@@ -30,7 +30,7 @@ ls *bt2_pe.bam | xargs -P 2 -tI{} deduplicate_bismark --bam --paired  -o s_{} {}
 [Ссылка на отчет](reports/SRR5836473_1_bismark_bt2_PE_report.html)
 ![](images/8cell_mbias.png)
 ### icm
-[Ссылка на отчет](reports/SRR5836475_1_bismark_bt2_PE_report)
+[Ссылка на отчет](reports/SRR5836475_1_bismark_bt2_PE_report.html)
 ![](images/icm_mbias.png)
 ### epiblast
 [Ссылка на отчет](reports/SRR3824222_1_bismark_bt2_PE_report.html)
