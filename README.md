@@ -1,5 +1,5 @@
 # 1. Анализ QC прочтений
-[Ссылка на отчет](reports/SRR5836475_1_fastqc.html)
+[Ссылка на отчет](fastqc/SRR5836475_1_fastqc.html)
 
 ![](images/fastqc.png)
 
